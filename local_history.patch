@@ -1,0 +1,19 @@
+Index: src/index.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/index.html b/src/index.html
+--- a/src/index.html	
++++ b/src/index.html	(date 1710578984086)
+@@ -1,8 +1,8 @@
+ <!DOCTYPE html>
+ <html lang="en">
+ <head>
+-  <meta charset="UTF-8">
+-  <title>Title</title>
++    <meta charset="UTF-8">
++    <title>Title</title>
+ </head>
+ <body>
+ 
