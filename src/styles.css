@@ -1,4 +1,17 @@
 #mapid {
-    height: 500px;
-    width: 50%;
+    height: 850px;
+    width: 65%;
+    background-color: #00070c;
+}
+
+.my-popup {
+
+}
+
+.my-popup a {
+
+}
+
+.my-popup a:hover {
+
 }
